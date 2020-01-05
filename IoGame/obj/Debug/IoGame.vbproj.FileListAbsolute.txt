@@ -1,0 +1,42 @@
+F:\Programación\IoGame\IoGame\bin\Debug\IoGame.exe.config
+F:\Programación\IoGame\IoGame\bin\Debug\IoGame.exe
+F:\Programación\IoGame\IoGame\bin\Debug\IoGame.pdb
+F:\Programación\IoGame\IoGame\bin\Debug\IoGame.xml
+F:\Programación\IoGame\IoGame\bin\Debug\Winsock Orcas.dll
+F:\Programación\IoGame\IoGame\bin\Debug\Winsock Orcas.xml
+F:\Programación\IoGame\IoGame\obj\Debug\IoGame.vbprojResolveAssemblyReference.cache
+F:\Programación\IoGame\IoGame\obj\Debug\IoGame.Form1.resources
+F:\Programación\IoGame\IoGame\obj\Debug\IoGame.Resources.resources
+F:\Programación\IoGame\IoGame\obj\Debug\IoGame.vbproj.GenerateResource.Cache
+F:\Programación\IoGame\IoGame\obj\Debug\IoGame.vbproj.CoreCompileInputs.cache
+F:\Programación\IoGame\IoGame\obj\Debug\IoGame.exe
+F:\Programación\IoGame\IoGame\obj\Debug\IoGame.xml
+F:\Programación\IoGame\IoGame\obj\Debug\IoGame.pdb
+E:\Programación\IoGame\IoGame\obj\Debug\IoGame.Form1.resources
+E:\Programación\IoGame\IoGame\obj\Debug\IoGame.Resources.resources
+E:\Programación\IoGame\IoGame\obj\Debug\IoGame.vbproj.GenerateResource.Cache
+E:\Programación\IoGame\IoGame\bin\Debug\IoGame.exe.config
+E:\Programación\IoGame\IoGame\bin\Debug\IoGame.exe
+E:\Programación\IoGame\IoGame\bin\Debug\IoGame.pdb
+E:\Programación\IoGame\IoGame\bin\Debug\IoGame.xml
+E:\Programación\IoGame\IoGame\obj\Debug\IoGame.exe
+E:\Programación\IoGame\IoGame\obj\Debug\IoGame.xml
+E:\Programación\IoGame\IoGame\obj\Debug\IoGame.pdb
+E:\Programación\IoGame\IoGame\bin\Debug\Winsock Orcas.xml
+E:\Programación\IoGame\IoGame\obj\Debug\IoGame.vbprojResolveAssemblyReference.cache
+F:\Programación\IoGame\IoGame\obj\Debug\IoGame.Ajustes.resources
+E:\Programación\Juegos Vb.Net\IoGame\IoGame\bin\Debug\IoGame.exe.config
+E:\Programación\Juegos Vb.Net\IoGame\IoGame\bin\Debug\IoGame.exe
+E:\Programación\Juegos Vb.Net\IoGame\IoGame\bin\Debug\IoGame.pdb
+E:\Programación\Juegos Vb.Net\IoGame\IoGame\bin\Debug\IoGame.xml
+E:\Programación\Juegos Vb.Net\IoGame\IoGame\bin\Debug\Winsock Orcas.dll
+E:\Programación\Juegos Vb.Net\IoGame\IoGame\bin\Debug\Winsock Orcas.xml
+E:\Programación\Juegos Vb.Net\IoGame\IoGame\obj\Debug\IoGame.vbprojResolveAssemblyReference.cache
+E:\Programación\Juegos Vb.Net\IoGame\IoGame\obj\Debug\IoGame.Ajustes.resources
+E:\Programación\Juegos Vb.Net\IoGame\IoGame\obj\Debug\IoGame.Form1.resources
+E:\Programación\Juegos Vb.Net\IoGame\IoGame\obj\Debug\IoGame.Resources.resources
+E:\Programación\Juegos Vb.Net\IoGame\IoGame\obj\Debug\IoGame.vbproj.GenerateResource.Cache
+E:\Programación\Juegos Vb.Net\IoGame\IoGame\obj\Debug\IoGame.vbproj.CoreCompileInputs.cache
+E:\Programación\Juegos Vb.Net\IoGame\IoGame\obj\Debug\IoGame.exe
+E:\Programación\Juegos Vb.Net\IoGame\IoGame\obj\Debug\IoGame.xml
+E:\Programación\Juegos Vb.Net\IoGame\IoGame\obj\Debug\IoGame.pdb
